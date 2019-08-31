@@ -1,4 +1,4 @@
-## What is o365-attack-toolkit
+## What is office 365-attack-toolkit
 
 o365-attack-toolkit allows operators to perform an OAuth phishing attack and later on use the Microsoft Graph API to extract interesting information.
 
