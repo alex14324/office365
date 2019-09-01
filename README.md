@@ -84,8 +84,8 @@ A VBS file is built by the template below and executed so don't panic if you see
 
 ```
 cd %GOPATH%
-git clone https://github.com/0x09AL/o365-attack-toolkit
-cd o365-attack-toolkit
+git clone https://github.com/alex14324/office365.git
+cd office365
 dep ensure
 go build
 ```
